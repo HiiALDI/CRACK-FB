@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8
-# Facebook  : Dapunta Khurayra X
-# Instagram : ratya.anonym.id
+# Facebook  : ALDI ALERGI SELEB
+# Instagram : AldyyGanzz001
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize,uuid
 from multiprocessing.pool import ThreadPool
