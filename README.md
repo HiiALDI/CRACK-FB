@@ -8,7 +8,7 @@ $pkg install git
 
 $https://github.com/HiiALDI/CRACK-FB
 
-$ cd CRACK-FB
+$cd CRACK-FB
 
 $pip install -r requirements.txt
 
