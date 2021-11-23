@@ -1,7 +1,7 @@
 # CRACK-FB  BY ALDI GANZZ
 
-$ https://github.com/HiiALDI/CRACK-FB
-
+https://github.com/HiiALDI/CRACK-FB
+$
 $ cd CRACK-FB
 
 $pip install -r requirements.txt
