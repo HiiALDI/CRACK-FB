@@ -12,7 +12,7 @@ $cd CRACK-FB
 
 $pip install -r requirements.txt
 
-$python2 CRACK-FB.py
+$python2 AldiProJek.py
 
 
  
