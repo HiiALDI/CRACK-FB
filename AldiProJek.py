@@ -404,7 +404,7 @@ def pilih_passxd():
 	print "   [•] Total OK/CP: "+str(len(oks))+"/"+str(len(cekpoint))
 	print ("   [•] File Saved At : done/Indo.txt")
 	raw_input("   [ Back ]")
-	os.system("python2 fbcrack")
+	os.system("python2 CRACK-FB")
 	menu()
 
 def updatesc():
@@ -414,7 +414,7 @@ def updatesc():
 	os.system("git pull origin master")
 	print ("   [•] Successfully Update")
 	raw_input("\n   [ Back ]")
-	os.system("python2 fbcrack")	
+	os.system("python2 CRACK-FB")	
 	
 if __name__ == '__main__':
 	menu() 
