@@ -21,9 +21,9 @@ $ git clone https://github.com/HiiALDI/CRACK-FB
 
 #RUN SCRIPT
 
-$cd CRACK-FB
+$ cd CRACK-FB
 
-$python2 AldiProJek.py
+$ python2 AldiProJek.py
 
 
  
