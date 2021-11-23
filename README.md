@@ -6,7 +6,7 @@ $pkg install python2
 
 $pkg install git
 
-$https://github.com/HiiALDI/CRACK-FB
+$git clone https://github.com/HiiALDI/CRACK-FB
 
 $cd CRACK-FB
 
